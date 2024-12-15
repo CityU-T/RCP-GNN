@@ -29,4 +29,8 @@ python main_smooth.py --model GCN \
                 --conftr_calib_holdout\
                 --conftr\
 ```
+
+## Installation
+We implement our code by [TrochCP](https://github.com/ml-stat-Sustech/TorchCP) toolbox.
+
 ## Reference 
