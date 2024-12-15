@@ -2,7 +2,7 @@
 
 You can start it with below command:
 
-'''json
+'''
 python main_smooth.py --model GCN \
                 --dataset Cora_ML_CF \
                 --device cuda:0 \
