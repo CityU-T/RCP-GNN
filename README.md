@@ -1,8 +1,8 @@
 # This is the code implemention for RCP-GNN
 
-You can start it with below command:
+You can start it with:
 
-'''
+```python
 python main_smooth.py --model GCN \
                 --dataset Cora_ML_CF \
                 --device cuda:0 \
@@ -14,4 +14,4 @@ python main_smooth.py --model GCN \
                 --num_runs 1\
                 --conftr_calib_holdout\
                 --conftr\
-'''
+```
