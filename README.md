@@ -28,6 +28,7 @@ python main_smooth.py --model GCN \
                 --num_runs 1\
                 --conftr_calib_holdout\
                 --conftr\
+                --verbose\
 ```
 
 ## Installation
