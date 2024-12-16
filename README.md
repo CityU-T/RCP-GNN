@@ -24,7 +24,6 @@ python main_smooth.py --model GCN \
                 --conformal_score thrrank\
                 --not_save_res\
                 --interpolation higher\
-                --conf_epochs 5000\
                 --num_runs 1\
                 --conftr_calib_holdout\
                 --conftr\
