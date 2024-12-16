@@ -31,6 +31,7 @@ python main_smooth.py --model GCN \
 ```
 
 ## Installation
-We implement our code by [TrochCP](https://github.com/ml-stat-Sustech/TorchCP) toolbox.
+We implement our code by [TrochCP](https://github.com/ml-stat-Sustech/TorchCP) toolbox. 
+See `requirements.txt` for the packages.
 
 ## Reference 
