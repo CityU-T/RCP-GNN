@@ -35,3 +35,16 @@ We implement our code by [TrochCP](https://github.com/ml-stat-Sustech/TorchCP) t
 See `requirements.txt` for the packages.
 
 ## Reference 
+Please cite our work if you find it useful:
+
+```bibtex
+@misc{wang2025enhancingtrustworthinessgraphneural,
+      title={Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training}, 
+      author={Ting Wang and Zhixin Zhou and Rui Luo},
+      year={2025},
+      eprint={2501.02767},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.02767}, 
+}
+```
